@@ -2,7 +2,7 @@
 
 ## Multinomial Drug Classification Using Advanced Machine Learning Techniques
 
-This GitHub repository contains a detailed Jupyter notebook that showcases the application of several advanced machine learning models to classify drugs based on clinical profiles. The project evaluates Multinomial Logistic Regression, Random Forest, Support Vector Machine (SVM), and a Voting Ensemble model to determine which model provides the best performance across various metrics.
+This GitHub repository contains a detailed Google Colab Notebook that showcases the application of several advanced machine learning models to classify drugs based on clinical profiles. The project evaluates Multinomial Logistic Regression, Random Forest, Support Vector Machine (SVM), and a Voting Ensemble model to determine which model provides the best performance across various metrics.
 
 ### Project Overview
 
